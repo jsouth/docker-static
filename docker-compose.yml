@@ -5,7 +5,7 @@ services:
   web:
     image: jsouth/static-site:latest
     deploy:
-      replicas: 5
+      replicas: 1
     ports:
       - 8080:80
     volumes:
