@@ -1,4 +1,4 @@
-#Docker Static
+#docker Static
 Serve a static website using docker swarm
 
 ## Run the image
